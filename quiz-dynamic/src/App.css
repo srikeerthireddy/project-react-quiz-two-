@@ -1,0 +1,113 @@
+body{
+  margin:0;
+  background-color: darkslateblue;
+  height: 100vh;
+  position: fixed;
+}
+.main-container{
+  
+  height: 100vh;
+}
+.white-back{
+  height:600px;
+  width:1300px;
+  background-color: white;
+  margin: 100px;
+  position: fixed;
+  margin-top: 65px;
+  
+
+}
+.head{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  padding: 20px;
+
+}
+
+.num{
+  font-size: 20px;
+  margin: 30px;
+  margin-top: 20px;
+}
+.para{
+  display:flex;
+  justify-content: center;
+  font-size: 25px;
+}
+.display{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 70px;
+}
+.dog{
+  padding:10px ;
+  width: 500px;
+  border-radius: 25px;
+  background-color: skyblue;
+  font-size: 20px;
+  color: white;
+}
+.ele{
+  padding:10px ;
+  width: 500px;
+  background-color: skyblue;
+  border-radius: 25px;
+  font-size: 20px;
+  color: white;
+}
+.goat{
+  padding:10px ;
+  width: 500px;
+  border-radius: 25px;
+  background-color: skyblue;
+  font-size: 20px;
+  color: white;
+
+}
+.lion{
+  padding:10px ;
+  width: 500px;
+  border-radius: 25px;
+  background-color: skyblue;
+  color: white;
+  font-size: 20px;
+  
+}
+.display1{
+  display: flex;
+  justify-content: center;
+  gap:60px;
+  margin-top: 90px;
+  margin: 50px;
+}
+.footer{
+ display: flex;
+ justify-content: center;
+ margin-top: 70px;
+ gap: 20px;
+ 
+}
+.blue{
+ color: black;
+ background-color: blue;
+ padding:10px 40px;
+ font-size: 15px;
+ color: white;
+}
+.green{
+ color: black;
+ background-color: green;
+ padding:10px 40px;
+ font-size: 15px;
+ color: white;
+}
+.red{
+  background-color: red;
+  color: black;
+  padding:10px 40px;
+  font-size: 15px;
+  color: white;
+}
